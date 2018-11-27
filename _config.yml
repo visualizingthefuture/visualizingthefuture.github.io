@@ -6,9 +6,9 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Visualizing the Future
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Visualizing the Future Symposia
+tagline:          'A National Forum on Data Visualization in Libraries'
+description:      'An IMLS Laura Bush 21st Century Grant'
 url:              http://hyde.getpoole.com
 baseurl:          https://visualizingthefuture.github.io/
 
