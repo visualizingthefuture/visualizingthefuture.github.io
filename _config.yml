@@ -13,8 +13,8 @@ url:              http://hyde.getpoole.com
 baseurl:          https://visualizingthefuture.github.io/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Visualizing the Future'
+  url:            https://visualizingthefuture.github.io/
 
 paginate:         5
 
