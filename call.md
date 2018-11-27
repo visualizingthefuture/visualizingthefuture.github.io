@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call
+title: Call for Participants
 ---
 
 <p class="message">
