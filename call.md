@@ -32,6 +32,8 @@ This National Forum Grant will support a series of overlapping activities to emp
 * A final symposium in summer 2020 to review the results of instruction efforts, share strategies that worked well, and harmonize materials as needed (June 2020)
 * A close-out period for completion and dissemination of course materials and other reports from the grant activities (July 2020 to November 2020)
 
+![Schedule of Activities](images/schedule.png)
+
 ([live version of schedule](https://bl.ocks.org/amzoss/raw/95ba3f30b2774da788de75eb2b0b745a/))
 
 The project team is looking for a cohort of fellows who can commit to the two in-person meetings and a few hours a week of work over the course of approximately 18 months to make steady progress toward the collaborative visioning and design of critically-focused instructional materials on data visualization topics. The grant will fund travel to meetings and at least one conference to disseminate findings and materials.
