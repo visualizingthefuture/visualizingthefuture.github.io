@@ -3,19 +3,19 @@ layout: page
 title: About
 ---
 
-#Key Project Staff
+# Key Project Staff
 
-##Project Director
+## Project Director
 Justin Joque, Ph.D. (University of Michigan)
 
-##Project Co-Directors
+## Project Co-Directors
 Angela Zoss, Ph.D. (Duke University)
 Andrzej Rutkowski, M.A., M.S. (University of Southern California)
 
-##Project Staff
+## Project Staff
 Project Management Student Assistant (to be hired)
 
-##Advisory Board
+## Advisory Board
 Nancy Bartlett (University of Michigan)
 Marta Brunner, Ph.D. (Skidmore College)
 Jonathan Cain (University of Oregon)
