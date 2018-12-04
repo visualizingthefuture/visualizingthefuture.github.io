@@ -8,7 +8,7 @@ title: Call for Participants
 Visualizing the Future ([full proposal](https://www.imls.gov/grants/awarded/re-73-18-0059)) is an IMLS National Forum Grant to develop a literacy-based instructional and research agenda for library and information professionals with the aim to create a community of praxis focused on data visualization. Building on current work supporting data visualization in libraries, this grant aims to create a diverse community that will further advance data visualization instruction and use beyond hands-on, technology-based tutorials toward a nuanced, critical understanding of visualization as a research product and form of expression. 
 
 As part of this grant we are seeking applications for a cohort of fellows to: carry out research on the practice and teaching of data visualization, attend two in-person meetings over the next two years, and help in the development and dissemination of a framework for data visualization support in libraries and related institutions. We are accepting applications from all individuals, including current practitioners, students and those in adjacent fields and types of work; the two in person meetings will be in July 2019 and June 2020. Applications are due January 31st. 
-We are happy to answer any questions you may have at visualizingthefuture@umich.edu. Full instructions are below.
+We are happy to answer any questions you may have at <visualizingthefuture@umich.edu>. Full instructions are below.
 
 ## Overview
 
@@ -32,7 +32,7 @@ This National Forum Grant will support a series of overlapping activities to emp
 * A final symposium in summer 2020 to review the results of instruction efforts, share strategies that worked well, and harmonize materials as needed (June 2020)
 * A close-out period for completion and dissemination of course materials and other reports from the grant activities (July 2020 to November 2020)
 
-<iframe width="600" height="300" src="https://bl.ocks.org/amzoss/raw/95ba3f30b2774da788de75eb2b0b745a/" frameborder="0" allowfullscreen></iframe>
+![Schedule of Activities](https://visualizingthefuture.github.io/images/schedule.png)
 
 ([live version of schedule](https://bl.ocks.org/amzoss/raw/95ba3f30b2774da788de75eb2b0b745a/))
 
@@ -69,6 +69,6 @@ As part of the application process, approval should be sought from your immediat
 
 Please complete the [application form](https://goo.gl/forms/lYyWNKxjP4jsiGJg2) by **January 31, 2018**. You will be asked to submit your contact information and upload your three PDFs. 
 
-(The application form is a Google Form, which will require a Google account. If you prefer, you may instead email your application files to visualizingthefuture@umich.edu.)
+(The application form is a Google Form, which will require a Google account. If you prefer, you may instead email your application files to <visualizingthefuture@umich.edu>.)
 
-Email any questions to: visualizingthefuture@umich.edu 
+Email any questions to: <visualizingthefuture@umich.edu> 
