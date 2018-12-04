@@ -32,7 +32,7 @@ This National Forum Grant will support a series of overlapping activities to emp
 * A final symposium in summer 2020 to review the results of instruction efforts, share strategies that worked well, and harmonize materials as needed (June 2020)
 * A close-out period for completion and dissemination of course materials and other reports from the grant activities (July 2020 to November 2020)
 
-![Schedule of Activities](images/schedule.png)
+<iframe width="600" height="300" src="https://bl.ocks.org/amzoss/raw/95ba3f30b2774da788de75eb2b0b745a/" frameborder="0" allowfullscreen></iframe>
 
 ([live version of schedule](https://bl.ocks.org/amzoss/raw/95ba3f30b2774da788de75eb2b0b745a/))
 
