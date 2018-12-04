@@ -263,6 +263,9 @@ tbody tr:nth-child(odd) th {
   font-weight: 300;
 }
 
+#logo{
+ margin: 0 0 -1rem; 
+}
 
 /*
  * Messages
