@@ -63,7 +63,7 @@ We understand research in a broad sense. The project you propose should be an ex
 
 ### Details about the letter of commitment: 
 
-As part of the application process, approval should be sought from your immediate supervisor and, as appropriate, someone from library leadership (e.g., an associate dean, an associate university librarian, a library director). Please use the boilerplate text below to generate and obtain signatures for your letter of commitment.
+As part of the application process, approval should be sought from your immediate supervisor and, as appropriate, someone from library leadership (e.g., an associate dean, an associate university librarian, a library director). Please use the boilerplate text below to generate and obtain signatures for your letter of commitment. We have created [a sample letter of commitment](visualizingthefuture.github.io/public/sample_of_letter_of_commitment.docx) that you are welcome to download, use and modify if needed.
 
 ## How to Submit
 
