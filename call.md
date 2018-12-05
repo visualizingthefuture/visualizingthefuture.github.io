@@ -67,7 +67,7 @@ As part of the application process, approval should be sought from your immediat
 
 ## How to Submit
 
-Please complete the [application form](https://goo.gl/forms/lYyWNKxjP4jsiGJg2) by **January 31, 2018**. You will be asked to submit your contact information and upload your three PDFs. 
+Please complete the [application form](https://goo.gl/forms/lYyWNKxjP4jsiGJg2) by **January 31, 2019**. You will be asked to submit your contact information and upload your three PDFs. 
 
 (The application form is a Google Form, which will require a Google account. If you prefer, you may instead email your application files to <visualizingthefuture@umich.edu>.)
 
