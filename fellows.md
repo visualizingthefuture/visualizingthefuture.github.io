@@ -15,6 +15,7 @@ Negeen Aghassibake is the Data Visualization Librarian at the University of Wash
 ![Denisse Solis](../images/photos/denisse_solis.jpg){:height="200px" align="left" style="margin-right:15px; margin-bottom:0px"}
 Denisse Solis (she/hers/ella) is a Residency Librarian at the University of Denver. Denisse holds a BA in both History and Art History from Florida International University, an MLIS from Kent State University and is currently pursuing a Certificate in Research Data Management from the University of Denver.
 
+
 ### Megan Ozeran
 ![Megan Ozeran](../images/photos/ozeran-headshot-square.jpg){:height="200px" align="left" style="margin-right:15px; margin-bottom:0px"}
 As the Data Analytics & Visualization Librarian at the University of Illinois at Urbana-Champaign, Megan promotes best practices in data visualization to the campus community, including designing and teaching workshops and consulting with researchers. Her research into the ethics of data visualization allows her to integrate day-to-day practice with theory and critical studies. She is excited to join the Visualizing the Future team and help shape the growing field of data visualization in libraries.
