@@ -13,7 +13,7 @@ Negeen Aghassibake is the Data Visualization Librarian at the University of Wash
 
 ### Denisse Solis
 ![Denisse Solis](../images/photos/denisse_solis.jpg){:height="200px" align="left" style="margin-right:15px; margin-bottom:0px"}
-Denisse Solis (she/hers/ella) is a Residency Librarian at the University of Denver. Denisse holds a BA in both History and Art History from Florida International University, an MLIS from Kent State University and is currently pursuing a Certificate in Research Data Management from the University of Denver.
+Denisse Solis (she/hers/ella) is a Residency Librarian at the University of Denver. Denisse holds a BA in both History and Art History from Florida International University, an MLIS from Kent State University and is currently pursuing a Certificate in Research Data Management from the University of Denver.  
 
 
 ### Megan Ozeran
