@@ -11,10 +11,6 @@ Tess Grynoch is the Research Data & Scholarly Communications Librarian at the La
 ![Negeen Aghassibake](../images/photos/Aghassibake_Headshot Compressed.jpg){:height="200px" align="left" style="margin-right:15px; margin-bottom:0px"}
 Negeen Aghassibake is the Data Visualization Librarian at the University of Washington Health Sciences Library. She received her MS in Information Studies from the University of Texas at Austin in May 2018. Her areas of interest include data literacy and equity, diversity, and inclusion efforts in libraries.
 
-### Denisse Solis
-![Denisse Solis](../images/photos/denisse_solis.jpg){:height="200px" align="left" style="margin-right:15px; margin-bottom:0px"}
-Denisse Solis (she/hers/ella) is a Residency Librarian at the University of Denver. Denisse holds a BA in both History and Art History from Florida International University, an MLIS from Kent State University and is currently pursuing a Certificate in Research Data Management from the University of Denver.  
-
 <br/>
 ### Megan Ozeran
 ![Megan Ozeran](../images/photos/ozeran-headshot-square.jpg){:height="200px" align="left" style="margin-right:15px; margin-bottom:0px"}
