@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation of Grant Activities
+title: Documentation
 ---
 
 ## Assessments
