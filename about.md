@@ -14,7 +14,7 @@ Angela Zoss, Ph.D. (Duke University)
 Andrzej Rutkowski, M.A., M.S. (University of Southern California)
 
 ## Project Staff
-Project Management Student Assistant (to be hired)
+Project Management Student Assistant Cengiz Salman
 
 ## Advisory Board
 Nancy Bartlett (University of Michigan)
