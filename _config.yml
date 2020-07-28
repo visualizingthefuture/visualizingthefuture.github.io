@@ -10,6 +10,7 @@ tagline:          'An IMLS funded National Forum on Data Visualization in Librar
 description:      'An IMLS funded National Forum on Data Visualization in Libraries (RE-73-18-0059-18)'
 url:              http://hyde.getpoole.com
 baseurl:          https://visualizingthefuture.github.io/
+#baseurl:          '/visualizingthefuture.github.io/' # needed for local build
 
 author:
   name:           'Visualizing the Future'
@@ -25,3 +26,10 @@ github:
 
 # Google Analytics
 google_analytics: UA-145226210-1
+
+# Collections
+collections:
+  fellows:
+    output: false
+  projects:
+    output: false
