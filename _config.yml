@@ -33,3 +33,5 @@ collections:
     output: false
   projects:
     output: false
+  resources:
+    output: false
