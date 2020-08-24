@@ -29,11 +29,11 @@ Marta Brunner, Ph.D. (Skidmore College)
 
 Jonathan Cain (University of Oregon)
 
-Makiba Foster (Schomburg Center for Research in Black Culture, New York Public Library)
+Makiba Foster (African-American Research Library and Cultural Center, Broward County Florida)
 
 Jason Griffey (Fellow at the Berkman Klein Center for Internet & Society at Harvard University)
 
-Bergis Jules (University of California Riverside)
+Bergis Jules (Project Director for DocumentNow, Shift Collective)
 
 Thomas Padilla (University of Nevada at Las Vegas)
 
