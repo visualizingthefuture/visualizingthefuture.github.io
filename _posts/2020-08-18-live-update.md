@@ -11,10 +11,10 @@ Tune in to learn about:
  
 We will plan to leave extensive time for public q&a and discussion. We really want to know what the broader community is thinking and doing around data visualization in libraries.
 
-Details:
-**Visualizing the Future Live Update**
-Tuesday, September 22
-1pm to 2pm Eastern time | 10am to 11am Pacific time | 5pm to 6pm UTC time
+Details:    
+**Visualizing the Future Live Update**    
+Tuesday, September 22    
+1pm to 2pm Eastern time | 10am to 11am Pacific time | 5pm to 6pm UTC time    
 
 We hope you’ll join us to learn more about projects and our plans for the fall.
 
