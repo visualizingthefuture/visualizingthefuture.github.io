@@ -1,0 +1,39 @@
+# People important to you{#networking}
+As a new data librarian, you will want to seek out fellow practitioners, mentors, and stakeholders in your organization and beyond.
+
+##Directory at your organization
+If directory keyword searching is an option, consider searching bios for: 
+
+- ‘research management’
+- ‘data visualization’
+- ’data services’
+- ‘data mining’
+- ‘metadata librarian’
+- ‘archivist’
+- ‘assessment librarian’
+
+These initial contacts may provide further leads as you build your network. In this data era, increasingly you will find data allies in unconventional places.
+
+##Other directories & communities
+If you want to look beyond your organization for peers, you might try to use a federated directory search and other networking tools. Here are a few federated directories and communities to explore.
+
+```{r communities, echo = FALSE, fig.cap = 'A figure caption.'}
+conferences<- readxl::read_xlsx("data.xlsx" ,sheet="Community")
+conferences$name<-paste("<b><a href='",conferences$link,"'>" , conferences$name,"</a></b>")
+knitr::kable(
+  conferences[, c(1,3)], booktabs = TRUE,
+  caption = 'Places to find external community.'
+)
+```
+
+##Conferences
+Conferences are a great place to build your network. Try to be as social as you can. Go to postering sessions. Ask questions. Strike up conversations. Here are some conferences you might want to consider attending.
+
+```{r conferences, echo = FALSE, fig.cap = 'A figure caption.'}
+conferences<- readxl::read_xlsx("data.xlsx" ,sheet="Conferences")
+conferences$Name<-paste("<b><a href='",conferences$link,"'>" , conferences$Name,"</a></b>")
+knitr::kable(
+  conferences[, c(1,3)], booktabs = TRUE,
+  caption = 'Useful conferences for data librarians.'
+)
+```
