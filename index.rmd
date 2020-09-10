@@ -1,0 +1,19 @@
+---
+title: "Resources for new data librarians"
+author: "D. Christensen and R. Clement"
+date: "`r Sys.Date()`"
+site: bookdown::site
+split_by: section
+output:
+  bookdown::gitbook: default
+description: "Resources to help you in your first months as a data librarian"
+cover-image: "images/cover.png"
+apple-touch-icon: "touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon.ico"
+link-citations: yes
+rmd_files: ["index.rmd", "Roadmap.Rmd", "Find_people.Rmd"]
+---
+
+# Intro - Hello new data librarians! {#intro}
+Welcome new and aspiring data librarians! We've curated resources to help build skills and make connections. Are you just starting a new position? Check out the __[Roadmap](#roadmap)__ section for ideas for how to sketch out what a new data librarian will want to do what to do in the first months. Want to build skills or meet people like you? Check out the __[Networking](#networking)__ and __[Resources](#resources)__ sections.

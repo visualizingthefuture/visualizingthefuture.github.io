@@ -1,0 +1,34 @@
+#Roadmap {#roadmap}
+
+If you've just been hired as a data librarian, finding your way doesn't need to be a struggle. Here is a roadmap for your first months.
+
+## Find your people. Make connections. 
+- Who are the people in your organization who are working with data? Talk to them!
+- Who was doing dataviz-related work before you got there? It may not have been officially part of their position, but talk to them!
+- Was your position created because of the needs/requests of certain communities or people? Talk to them!
+- Additional offices and groups to seek connection:
+    - Grants/funding offices
+    - Digital humanities/scholarship centers
+    - Particular disciplines (sciences/social sciences/stats, etc)
+    - Subject Librarians / Liaison librarians
+    - Local government
+- Talk to the people who you found. Invite them to talk about their needs and the gaps they see in support AND the things that the library has already been helping with.
+- If you're not in a primarily public-facing position, find opportunities to shadow librarians who are (in instruction, on the reference/public service desk/etc)
+- Find your community beyond your institution
+    - Subscribe to listservs
+    - Go to public lectures/talks/etc
+    - If funding is available, attend conferences. 
+    - Find other online communities (Data Librarians on Facebook; datacure; Twitter; etc)
+    - Find community groups who might be working with data beyond your institution
+
+
+##Skill up
+- Read articles from our [Resources](#resources) section
+- Look through the curated training materials and use the ones that make the most sense for your position
+- Watch for webinars/other online trainings on the listservs you subscribe to
+- Find your community beyond your institution
+- Subscribe to listservs
+- Go to public lectures/talks/etc
+- If funding is available, attend conferences. 
+- Find other online communities (Data Librarians on Facebook; datacure; Twitter; etc)
+- Find community groups who might be working with data beyond your institution
