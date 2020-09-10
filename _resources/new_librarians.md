@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Materials for new librarians
-resource_url: 
----
+resource_url: https://visualizingthefuture.github.io/Materials-for-new-librarians/---
 
-Materials for new librarians. Coming soon.
+Materials for new data librarians. 
