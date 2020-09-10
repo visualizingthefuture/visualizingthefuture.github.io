@@ -1,3 +1,1 @@
-#Resources for New Data Librarians
-
-To open, visit <a href="https://splopendata.github.io/NewDataLib/">https://splopendata.github.io/NewDataLib/</a>
+We made a website at [visualizingthefuture.github.io](visualizingthefuture.github.io)
