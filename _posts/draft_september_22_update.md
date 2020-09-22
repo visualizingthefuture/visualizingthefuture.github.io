@@ -13,6 +13,7 @@ If you weren't able to make it, or you'd like to review some of the slides or di
     * An interesting question to start asking all the ILS vendors
         * I agree!
     * Green Glass (OCLC), but behind the seen, HathiTrust
+    * Yeah, was thinking of altmetric donuts
 1. I wonder if there's any hope for public libraries, given the limits on resources.  Covid has moved usage from buildings to online, but assessment and reporting is traditionally focused on gate count and similar.
     * I’d really love to think more about this and see if there are ways to help public libraries and other libraries with fewer resources, especially for assessment and reporting. Feel free to stay in touch if you’d like to talk more about this, or join in the November discussion!
 1. This project is very exciting, kudos to everyone! I was wondering about how this project can connect to the teaching of viz in library science master programs, which is in many cases a bit lacking.
@@ -31,6 +32,7 @@ If you weren't able to make it, or you'd like to review some of the slides or di
 1. Have you surveyed or assessed skill/competency levels versus self-estimates of skill for data visualization? I'd love to hear about that.
     * Not as actively myself, but I’m very interested in this! We’re trying to think more directly about assessment with each of our modules.
 1. What theories or theoretical frameworks do you each use to situate your reseach?
+    * Jacques Bertin semiology of graphic
 
 ### About Grant/Project Work
 1. Would the Nov session include library visual assessments from collection analysis? Or is this focused on instruction only?
@@ -50,11 +52,22 @@ If you weren't able to make it, or you'd like to review some of the slides or di
     * Yes, it was the libraries! And yes, we see both students, faculty, as well as staff. I have had a lot of administrators reach out as well.
     * Sorry, the link you were mentioning, was that the report from the august meeting?
 1. Is there an intent to include modules/instruction on dealing with perceptual and cognitive biases in data visualization?
+1. is the repo for the site private?
+    * no, our repos should be public
+    * what is the github.com link?
+    * https://github.com/visualizingthefuture
+    * And https://github.com/visualizingthefuture/visualizingthefuture.github.io
 1. How do people submit pull requests?
 
 ### About Doing Visualization
 1. Would love some examples of using large data sets - perhaps a community of interest on that?
 1. Please let us know whether there are resources about standardized formats for organizing data to create network diagrams and whether there are any recommendations for free, easy-to-use and install tools that could be used with the standard format.
+    * For network visualization, I haven’t checked in a while, but I think Graph Commons was really doing interesting things and make network data easier to produce and use. Maybe also Flourish?
+    * Gephi is a free network visualization tool, too (or was free last time I checked)
+    * Yes, also Cytoscape, if you are looking for downloadable tools
+    * I have another tool I’ve liked, but will need to look it up
+    * Downloadable tools that are easy to install and use standard formats
     * Some answers from chat: Gephi, Cytoscape, Graph Commons, Flourish. The basic formats may vary from tool to tool, but often they will support one spreadsheet of “node” information and one spreadsheet of “edge” information
+    * Thanks for the Graph Commons recommendation!
 1. we are talking about data visualization, what specific data do you need to visualize and why?
     * That really varies! I think every workshop might need slightly different data to visualize.
