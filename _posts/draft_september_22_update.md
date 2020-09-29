@@ -24,26 +24,28 @@ Industry | 0% | `--------------------`
 
 ### My primary role is to do visualization (i.e. public services) in a library
 
-Response | Percentage
---- | --- 
-No | 78%
-Yes | 22%
+Response | Percentage | Bar chart
+--- | --- | ---
+No | 78% | `++++++++++++++++----`
+Yes | 22% | `++++----------------`
 
 ### What resources would be most helpful to you?
 
-Response | Percentage
---- | --- 
-Shared techniques, best practices | 41%
-Training related to visualization | 29%
-Community of practice | 15%
-Shared instruction materials | 13%
-Mentorship | 2%
+Response | Percentage | Bar chart
+--- | --- | ---
+Shared techniques, best practices | 41% | `++++++++------------`
+Training related to visualization | 29% | `++++++--------------`
+Community of practice | 15% | `+++-----------------`
+Shared instruction materials | 13% | `+++-----------------`
+Mentorship | 2% | `+-------------------`
 
 ## Slides and Recording
 
 A copy of the slides from our presentation includes notes explaining what we shared.
 
 We have a [video](https://umich.box.com/shared/static/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3.mp4) of the Question & Answer session. See below for a full textual summary of Q&A content.
+
+## Save the Date
 
 ## Question & Answer Session
 
