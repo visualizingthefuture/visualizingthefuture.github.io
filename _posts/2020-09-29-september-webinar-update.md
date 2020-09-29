@@ -17,14 +17,14 @@ At the beginning of the webinar, we asked attendees to complete a poll to share 
 
 Response | Percentage | Bar chart
 --- | --- | ---
-Academic, research or special library | 77% | `+++++++++++++++-----`
+Academic, research or<br/>special library | 77% | `+++++++++++++++-----`
 Other | 5% | `+-------------------`
 Public Library | 4% | `+-------------------`
 Non-profit | 4% | `+-------------------`
 Education (primary, secondary, academic) | 4% | `+-------------------`
 Government | 3% | `+-------------------`
 Student | 2% | `+-------------------`
-Freelance visualization profession | 1% | `+-------------------`
+Freelance visualization<br/>profession | 1% | `+-------------------`
 Industry | 0% | `--------------------`
 
 ### My primary role is to do visualization (i.e. public services) in a library
