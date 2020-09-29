@@ -6,6 +6,12 @@ We had a wonderful audience for our webinar on September 22. At one point we had
 
 If you weren't able to make it, or you'd like to review some of the slides or discussion, we'll share all of that below.
 
+## Slides and Recording
+
+A copy of the slides from our presentation includes notes explaining what we shared.
+
+We have a [video](https://umich.box.com/shared/static/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3.mp4) of the Question & Answer session. See below for a full textual summary of Q&A content.
+
 ## Question & Answer Session
 
 ### About Visualization in Libraries
