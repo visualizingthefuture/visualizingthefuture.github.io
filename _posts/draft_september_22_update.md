@@ -41,7 +41,7 @@ Mentorship | 2% | `+-------------------`
 
 ## Slides and Recording
 
-A copy of the slides from our presentation includes notes explaining what we shared.
+A copy of the [slides from our presentation](../files/september_2020_webinar_slides/VTF%20Sep%202020%20Live%20Update.pdf) includes notes explaining what we shared.
 
 We have a [video](https://umich.box.com/shared/static/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3.mp4) of the Question & Answer session. See below for a full textual summary of Q&A content.
 
