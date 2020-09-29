@@ -6,6 +6,39 @@ We had a wonderful audience for our webinar on September 22. At one point we had
 
 If you weren't able to make it, or you'd like to review some of the slides or discussion, we'll share all of that below.
 
+## Attendees
+
+### What best describes your current work situation
+
+Response | Percentage
+--- | --- 
+Academic, research or special library | 77%
+Other | 5%
+Public Library | 4%
+Non-profit | 4%
+Education (primary, secondary, academic) | 4%
+Government | 3%
+Student | 2%
+Freelance visualization profession | 1%
+Industry | 0%
+
+### My primary role is to do visualization (i.e. public services) in a library
+
+Response | Percentage
+--- | --- 
+No | 78%
+Yes | 22%
+
+### What resources would be most helpful to you?
+
+Response | Percentage
+--- | --- 
+Shared techniques, best practices | 41%
+Training related to visualization | 29%
+Community of practice | 15%
+Shared instruction materials | 13%
+Mentorship | 2%
+
 ## Slides and Recording
 
 A copy of the slides from our presentation includes notes explaining what we shared.
