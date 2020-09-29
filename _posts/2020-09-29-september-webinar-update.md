@@ -15,28 +15,28 @@ At the beginning of the webinar, we asked attendees to complete a poll to share 
 
 ### What best describes your current work situation
 
-Response | Percentage | Bar chart
+<div style="width:300px">Response</div> | Pct | Bar chart
 --- | --- | ---
-Academic, research or<br/>special library | 77% | `+++++++++++++++-----`
+<div style="width:300px">Academic, research or special library</div> | 77% | `+++++++++++++++-----`
 Other | 5% | `+-------------------`
 Public Library | 4% | `+-------------------`
 Non-profit | 4% | `+-------------------`
-Education (primary, secondary, academic) | 4% | `+-------------------`
+<div style="width:300px">Education (primary, secondary, academic)</div> | 4% | `+-------------------`
 Government | 3% | `+-------------------`
 Student | 2% | `+-------------------`
-Freelance visualization<br/>profession | 1% | `+-------------------`
+<div style="width:300px">Freelance visualization profession</div> | 1% | `+-------------------`
 Industry | 0% | `--------------------`
 
 ### My primary role is to do visualization (i.e. public services) in a library
 
-Response | Percentage | Bar chart
+Response | Pct | Bar chart
 --- | --- | ---
 No | 78% | `++++++++++++++++----`
 Yes | 22% | `++++----------------`
 
 ### What resources would be most helpful to you?
 
-Response | Percentage | Bar chart
+Response | Pct | Bar chart
 --- | --- | ---
 Shared techniques, best practices | 41% | `++++++++------------`
 Training related to visualization | 29% | `++++++--------------`
