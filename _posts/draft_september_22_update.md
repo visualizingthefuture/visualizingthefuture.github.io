@@ -10,17 +10,17 @@ If you weren't able to make it, or you'd like to review some of the slides or di
 
 ### What best describes your current work situation
 
-Response | Percentage
---- | --- 
-Academic, research or special library | 77%
-Other | 5%
-Public Library | 4%
-Non-profit | 4%
-Education (primary, secondary, academic) | 4%
-Government | 3%
-Student | 2%
-Freelance visualization profession | 1%
-Industry | 0%
+Response | Percentage | Bar chart
+--- | --- | ---
+Academic, research or special library | 77% | +++++++++++++++-----
+Other | 5% | +-------------------
+Public Library | 4% | +-------------------
+Non-profit | 4% | +-------------------
+Education (primary, secondary, academic) | 4% | +-------------------
+Government | 3% | +-------------------
+Student | 2% | +-------------------
+Freelance visualization profession | 1% | +-------------------
+Industry | 0% | --------------------
 
 ### My primary role is to do visualization (i.e. public services) in a library
 
