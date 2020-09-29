@@ -2,11 +2,16 @@
 layout: post
 title: Recording and Notes from our September Live Update
 ---
-We had a wonderful audience for our webinar on September 22. At one point we had 135 attendees participating, and our Q&A session was full of excellent questions and thoughts.
 
-If you weren't able to make it, or you'd like to review some of the slides or discussion, we'll share all of that below.
+We had a wonderful audience for our [webinar on September 22](https://visualizingthefuture.github.io/2020/08/18/live-update/). At one point we had 135 attendees participating, and our Q&A session was full of excellent questions and thoughts.
+
+A copy of the [slides from our presentation](../files/september_2020_webinar_slides/VTF%20Sep%202020%20Live%20Update.pdf) includes notes explaining what we shared.
+
+We also have a [video](https://umich.box.com/s/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3) of the Question & Answer session. See below for a full textual summary of Q&A content.
 
 ## Attendees
+
+At the beginning of the webinar, we asked attendees to complete a poll to share some details about their connection to visualization in libraries. We had over 100 responses to the poll. Responses below show that the majority of the audience works in libraries, though not necessarily in a visualization support position. The attendees were most excited about sharing techniques and best practices, though some would also like more visualization training.
 
 ### What best describes your current work situation
 
@@ -39,31 +44,15 @@ Community of practice | 15% | `+++-----------------`
 Shared instruction materials | 13% | `+++-----------------`
 Mentorship | 2% | `+-------------------`
 
-## Slides and Recording
-
-A copy of the [slides from our presentation](../files/september_2020_webinar_slides/VTF%20Sep%202020%20Live%20Update.pdf) includes notes explaining what we shared.
-
-We have a [video](https://umich.box.com/shared/static/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3.mp4) of the Question & Answer session. See below for a full textual summary of Q&A content.
-
-## Save the Date
-
-We have two more public conversations on visualization in libraries scheduled. Our new Viz and Tell series will be a way for the library visualization community to meet semi-regularly to focus attention on specific topics.
-
-**October Viz and Tell**
-Topic: Teaching Data Viz in Libraries
-Date: Tuesday, October 20
-Time: 2pm Eastern / 1pm Central / 11am Pacific
-
-**November Viz and Tell**
-Topic: Visualization in Library Assessment
-Date: Tuesday, November 17
-Time: 2pm Eastern / 1pm Central / 11am Pacific
-
-Registration details forthcoming. Look for a post here an in a few weeks and an announcement on our [mailing list](http://eepurl.com/gzlFyH).
-
 ## Question & Answer Session
 
+We had a lively question and answer session. In addition to the [video](https://umich.box.com/s/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3) we recorded, we have also compiled information from the Q&A box, chat, and presenters in the summary below. The questions have been loosely grouped by topic.
+
 ### About Visualization in Libraries
+1. Did you have specific viz roles in the library or were these added on?
+    * Andy:  There's an interesting way that my position got created here at the University of Southern California. A few years ago when I first started at USC I was actually a, the full title was an Interdisciplinary GIS Library Fellow, which was a two-year contract position, and in that role i actually kind of sketched out GIS sort of needs. And one of the things that I also started talking about when I was sort of giving an assessment on that position was that the need here was much more, it was much more than just GIS. It was, there was a lot of work with just data and using a lot of other tools beyond GIS tools with students. And it took a little while an additional sort of year or two before this sort of visualization specialist role fully got developed and created, but it was specifically, you know, a visualization specialist working with with the USC academic community to do visualization support. And it's really sort of broadly sort of developed and then I'm sort of allowed to sort of cater the role to specific groups on campus that I work with. So I really kind of like that.
+    * Justin: 
+    * Angela:
 1. I’m curious about how folks have integrated visualizations into library catalogs as a way of recontexutalizing library collections for students
     * An interesting question to start asking all the ILS vendors
         * I agree!
@@ -126,3 +115,20 @@ Registration details forthcoming. Look for a post here an in a few weeks and an 
     * Thanks for the Graph Commons recommendation!
 1. we are talking about data visualization, what specific data do you need to visualize and why?
     * That really varies! I think every workshop might need slightly different data to visualize.
+
+## Save the Date
+
+We have two more public conversations on visualization in libraries scheduled. Our new Viz and Tell series will be a way for the library visualization community to meet semi-regularly to focus attention on specific topics.
+
+**October Viz and Tell**
+Topic: Teaching Data Viz in Libraries
+Date: Tuesday, October 20
+Time: 2pm Eastern / 1pm Central / 11am Pacific
+
+**November Viz and Tell**
+Topic: Visualization in Library Assessment
+Date: Tuesday, November 17
+Time: 2pm Eastern / 1pm Central / 11am Pacific
+
+Registration details forthcoming. Look for a post here an in a few weeks and an announcement on our [mailing list](http://eepurl.com/gzlFyH).
+
