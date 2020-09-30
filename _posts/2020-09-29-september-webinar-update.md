@@ -5,7 +5,7 @@ title: Recording and Notes from our September Live Update
 
 We had a wonderful audience for our [webinar on September 22](https://visualizingthefuture.github.io/2020/08/18/live-update/). At one point we had 135 attendees participating, and our Q&A session was full of excellent questions and thoughts.
 
-A copy of the [slides from our presentation](../files/september_2020_webinar_slides/VTF%20Sep%202020%20Live%20Update.pdf) includes notes explaining what we shared.
+A copy of the [slides from our presentation](/files/september_2020_webinar_slides/VTF%20Sep%202020%20Live%20Update.pdf) includes notes explaining what we shared.
 
 We also have a [video](https://umich.box.com/s/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3) of the Question & Answer session. See below for a full textual summary of Q&A content.
 
