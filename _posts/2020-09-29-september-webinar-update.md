@@ -144,15 +144,15 @@ We had a lively question and answer session. In addition to the [video](https://
 
 Finally, we have two more public conversations on visualization in libraries scheduled (so far). Our new Viz and Tell series will be a way for the library visualization community to meet semi-regularly to focus attention on specific topics.
 
-**October Viz and Tell**
-Topic: Teaching Data Viz in Libraries
-Date: Tuesday, October 20
-Time: 2pm Eastern / 1pm Central / 11am Pacific
+**October Viz and Tell**    
+Topic: Teaching Data Viz in Libraries    
+Date: Tuesday, October 20    
+Time: 2pm Eastern / 1pm Central / 11am Pacific    
 
-**November Viz and Tell**
-Topic: Visualization in Library Assessment
-Date: Tuesday, November 17
-Time: 2pm Eastern / 1pm Central / 11am Pacific
+**November Viz and Tell**    
+Topic: Visualization in Library Assessment    
+Date: Tuesday, November 17    
+Time: 2pm Eastern / 1pm Central / 11am Pacific    
 
 Registration details forthcoming. Look for a post here an in a few weeks and an announcement on our [mailing list](http://eepurl.com/gzlFyH).
 
