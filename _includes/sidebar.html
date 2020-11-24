@@ -4,7 +4,7 @@
          <span style="font-size: 2rem; font-weight: bold;"><a href="{{ site.baseurl }}">
           {{ site.title }}
         </a></span>
-      <p class="lead">{{ site.description }}</p>
+      <p><em>{{ site.description }}</em></p>
     </div>
 
     <nav class="sidebar-nav">
@@ -25,6 +25,7 @@
       {% endfor %}
       <a class="sidebar-nav-item" href="http://eepurl.com/gzlFyH">Sign up for Mailing List</a>
     </nav>
-    <p>&copy; {{ site.time | date: '%Y' }}</p>
+    <p>&copy; {{ site.time | date: '%Y' }}<br />
+      <a href="{{ site.github.repo }}">GitHub Repo</a></p>
   </div>
 </div>
