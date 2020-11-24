@@ -6,11 +6,11 @@ permalink:        pretty
 
 # Setup
 title:            Visualizing the Future Symposia
-tagline:          'An IMLS funded National Forum on Data Visualization in Libraries (RE-73-18-0059-18)'
-description:      'An IMLS funded National Forum on Data Visualization in Libraries (RE-73-18-0059-18)'
+tagline:          'An IMLS-funded National Forum on Data Visualization in Libraries (RE-73-18-0059-18)'
+description:      'An IMLS-funded National Forum on Data Visualization in Libraries<br/>(RE-73-18-0059-18)'
 url:              http://hyde.getpoole.com
 baseurl:          https://visualizingthefuture.github.io/
-#baseurl:          '/visualizingthefuture.github.io/' # needed for local build
+#baseurl:          '/' # needed for local build
 
 author:
   name:           'Visualizing the Future'
