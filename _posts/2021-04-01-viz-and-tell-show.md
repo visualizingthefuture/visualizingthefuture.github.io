@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Notes from March Viz and Tell: Show and Tell
+title: Notes from March Viz and Tell Show and Tell
 ---
 
 Our March Viz and Tell had 34 registrants and 26 participants. 
