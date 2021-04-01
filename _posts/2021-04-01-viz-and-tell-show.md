@@ -2,6 +2,7 @@
 layout: post
 title: Notes from March Viz and Tell: Show and Tell
 ---
+
 Our March Viz and Tell had 34 registrants and 26 participants. 
 
 Thank you to everyone who could attend and a huge thank you to Emma Slayton and Matthew Sisk for sharing their visualization projects with us. 
