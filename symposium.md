@@ -5,9 +5,10 @@ title: 2021 Public Symposium
 
 November 3-5, 2021    
 Virtual    
+[Register for the symposium](https://duke.zoom.us/meeting/register/tJIucOiupj4uE9brEQ94y1qOmJedEunS1YuE)
 
-Save the date for our final symposium from November 3 to 5, 2021!    
-All events will be virtual, free, and whenever possible, recorded and shared publicly.
+Join us for our final symposium from November 3 to 5, 2021!    
+All events will be virtual, free, and (whenever possible) recorded and shared publicly.
 
 This page will continue to update with new details as they are available.
 
@@ -47,4 +48,4 @@ This page will continue to update with new details as they are available.
 
 | Pacific Daylight Time | Eastern Daylight Time | Event |
 | ----- | ----- | ----- |
-| 10:00 a.m. - 2:00 p.m. | 1:00 - 5:00 p.m. | Workshop: Beyond the tools: Pedagogy for critical data visualization instruction |
+| 10:00 a.m. - 2:00 p.m. | 1:00 - 5:00 p.m. | Workshop: [Beyond the tools: Pedagogy for critical data visualization instruction](workshop) (separate registration required) |
