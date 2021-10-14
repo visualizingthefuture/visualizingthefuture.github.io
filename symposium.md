@@ -21,7 +21,6 @@ This page will continue to update with new details as they are available.
 
 | Pacific Daylight Time | Eastern Daylight Time | Event |
 | ----- | ----- | ----- |
-|  | TBD | East coast regional social activities |
 |  | 11:00 a.m. - 12:00 p.m. | East coast meet & greet / coffee talk|
 | 9:00 - 9:25 a.m. | 12:00 - 12:25 p.m. | Symposium Welcome |
 | 9:30 - 11:00 a.m. | 12:30 - 2:00 p.m. | Keynote Presentation and Q & A - Jonathan O. Cain, Associate University Librarian for Research and Learning, Columbia University Libraries |
@@ -30,7 +29,6 @@ This page will continue to update with new details as they are available.
 | 12:30 p.m. - 1:00 p.m. | 3:30 - 4:00 p.m. | Break |
 | 1:00 p.m. - 1:45 p.m. | 4:00 - 4:45 p.m. | Visualizing the Future project report and Q & A |
 | 2:00 p.m. - 3:00 p.m. |  | West coast meet & greet / tea time |
-| TBD |  | West coast regional social activities |
 
 ### Thursday, November 4
 
@@ -42,7 +40,7 @@ This page will continue to update with new details as they are available.
 | 11:00 - 12:00 p.m. | 2:00 - 3:00 p.m. | Break / Unconference small group discussions |
 | 12:00 p.m. - 1:30 p.m. | 3:00 - 4:30 p.m. | Invited speaker |
 | 1:30 p.m. - 2:00 p.m. | 4:30 - 5:00 p.m. | Symposium closing session |
-| TBD |  | West coast regional social activities |
+| 2:00 p.m. - 3:00 p.m. |  | Build a community playlist (West coast regional social activity) |
 
 ### Friday, November 5
 
