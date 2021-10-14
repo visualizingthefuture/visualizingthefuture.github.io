@@ -7,7 +7,7 @@ We had a wonderful audience for our [webinar on September 22](https://visualizin
 
 A copy of the [slides from our presentation](/files/september_2020_webinar_slides/VTF%20Sep%202020%20Live%20Update.pdf) includes notes explaining what we shared.
 
-We also have a [video](https://umich.box.com/s/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3) of the Question & Answer session. See below for a full textual summary of Q&A content.
+We also have a [video](https://youtu.be/1iVzqZwsp_g) of the Question & Answer session. See below for a full textual summary of Q&A content.
 
 ## Attendees
 
@@ -46,7 +46,7 @@ Mentorship | 2% | `+-------------------`
 
 ## Question & Answer Session
 
-We had a lively question and answer session. In addition to the [video](https://umich.box.com/s/h61iy1ynkxp5h0u8vuvikr9dnqcvxwz3) we recorded, we have also compiled information from the Q&A box, chat, and presenters in the summary below. The questions have been loosely grouped by topic.
+We had a lively question and answer session. In addition to the [video](https://youtu.be/1iVzqZwsp_g) we recorded, we have also compiled information from the Q&A box, chat, and presenters in the summary below. The questions have been loosely grouped by topic.
 
 ### About Visualization in Libraries
 1. **Did you have specific viz roles in the library or were these added on?**
