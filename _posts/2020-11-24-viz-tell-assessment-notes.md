@@ -4,7 +4,7 @@ title: Notes from November Viz and Tell on Visualization for Assessment
 ---
 Our November Viz and Tell had 170 registrants and 110 live participants, covering a range of topics related to data visualization and assessment in libraries.
 
-Our [live notes](http://bit.ly/VizTellAssess) document has been updated with resources and some of the discussion that happened. The [recording](https://umich.box.com/s/rm6jru9z8oc0m7qurqnj11c29t5t0g1a) is also available.
+Our [live notes](http://bit.ly/VizTellAssess) document has been updated with resources and some of the discussion that happened. The [recording](https://youtu.be/dMH69mrQp48) is also available.
 
 To organize the discussion based on the group's interested, we distributed a pre-event survey and determined that the most popular topics were:
 
