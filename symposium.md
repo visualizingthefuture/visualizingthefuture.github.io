@@ -38,7 +38,7 @@ This page will continue to update with new details as they are available.
 | 9:00 - 9:50 a.m. | 12:00 - 12:50 p.m. | Lightning Talks |
 | 10:00 - 10:50 a.m. | 1:00 - 1:50 p.m. | Viz and Tell: Organizing the community / next steps |
 | 11:00 - 12:00 p.m. | 2:00 - 3:00 p.m. | Break / Unconference small group discussions |
-| 12:00 p.m. - 12:45 p.m. | 3:00 - 3:45 p.m. | Invited speaker and Q & A - Dr. Maylei Blackwell, Associate Professor in the César E. Chávez Department of Chicana/o Studies and Women’s Studies Department |
+| 12:00 p.m. - 12:45 p.m. | 3:00 - 3:45 p.m. | Invited speaker and Q & A - Dr. Maylei Blackwell, Associate Professor in the César E. Chávez Department of Chicana/o Studies and Women’s Studies Department, UCLA |
 | 1:00 p.m. - 1:45 p.m. | 4:00 - 4:45 p.m. | Symposium reflection / closing session |
 | 2:00 p.m. - 3:00 p.m. |  | Build a community playlist (West coast regional social activity) |
 
