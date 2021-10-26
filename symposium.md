@@ -23,7 +23,7 @@ This page will continue to update with new details as they are available.
 | ----- | ----- | ----- |
 |  | 11:00 a.m. - 12:00 p.m. | East coast meet & greet / coffee talk|
 | 9:00 - 9:25 a.m. | 12:00 - 12:25 p.m. | Symposium Welcome |
-| 9:30 - 11:00 a.m. | 12:30 - 2:00 p.m. | Keynote Presentation and Q & A - Jonathan O. Cain, Associate University Librarian for Research and Learning, Columbia University Libraries |
+| 9:30 - 11:00 a.m. | 12:30 - 2:00 p.m. | Keynote Presentation and Q & A - [Visualizing a future: Some thoughts on the library’s role in data education](keynote). Jonathan O. Cain, Associate University Librarian for Research and Learning, Columbia University Libraries |
 | 11:00 - 11:30 a.m. | 2:00 - 2:30 p.m. | Break |
 | 11:30 a.m. - 12:30 p.m. | 2:30 - 3:30 p.m. | Unconference small group discussions |
 | 12:30 p.m. - 1:00 p.m. | 3:30 - 4:00 p.m. | Break |
