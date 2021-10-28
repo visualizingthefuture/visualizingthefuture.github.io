@@ -12,6 +12,7 @@ All events will be virtual, free, and (whenever possible) recorded and shared pu
 
 This page will continue to update with new details as they are available.
 
+Our [Code of Conduct](code-of-conduct) will be in effect for all symposium events.
 
 *Visualizing the Future* encourages persons with disabilities to participate in its programs and activities. If you anticipate needing any type of accommodation or have any questions, please reach out to visualizingthefuture [at] umich [dot] edu, if possible two weeks in advance.
 
