@@ -54,7 +54,14 @@ Sexual, discriminatory, or potentially triggering language and imagery is genera
 
 That said, we will not tolerate harassment of Visualizing the Future community members in any form. If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the VTF team (Justin Joque, Andy Rutkowski, and/or Angela Zoss).
 
-To report incidents during our events, in online venues, or on-site but in the absence of a staff member, please contact VTF at visualizingthefuture@umich.edu. However, if you or others are in imminent danger, please first phone emergency services at 911.
+To report incidents during our events, in online venues, or on-site but in the absence of a staff member, please:
+
+* Email [visualizingthefuture at umich dot edu](mailto:visualizingthefuture@umich.edu)
+* Zoom chat to a Host or Co-host (Angela, Andy, or Justin)
+* Direct Message on VTF Slack to Angela, Andy, or Justin
+* [Anonymous reporting form](https://forms.gle/RE5gsSJVFtFqJUz38)
+
+However, if you or others are in imminent danger, please first phone emergency services at 911.
 
 Participants at a VTF meeting or any other VTF-hosted discussion or event (held online or in person, including VTF-sponsored social events) who are asked to stop harassing or intimidating behaviors are expected to comply immediately. Those who violate our code of conduct may be warned, sanctioned, or expelled at the discretion of the organizers.
 
