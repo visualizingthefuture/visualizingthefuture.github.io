@@ -16,6 +16,10 @@ Our [Code of Conduct](code-of-conduct) will be in effect for all symposium event
 
 *Visualizing the Future* encourages persons with disabilities to participate in its programs and activities. If you anticipate needing any type of accommodation or have any questions, please reach out to visualizingthefuture [at] umich [dot] edu, if possible two weeks in advance.
 
+## Communication
+
+We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.com/join/shared_invite/zt-letq8v1e-tiEJ_jUyCFJLGiZBGrjziA), where we'll be using a separate channel to organize conversations related to the symposium.
+
 ## Schedule
 
 ### Wednesday, November 3
