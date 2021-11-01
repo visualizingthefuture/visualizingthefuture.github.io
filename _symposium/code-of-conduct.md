@@ -58,7 +58,7 @@ To report incidents during our events, in online venues, or on-site but in the a
 
 * Email [visualizingthefuture at umich dot edu](mailto:visualizingthefuture@umich.edu)
 * Zoom chat to a Host or Co-host (Angela, Andy, or Justin)
-* Direct Message on VTF Slack to Angela, Andy, or Justin
+* Direct Message on [VTF Slack](https://vizandtell.slack.com/join/shared_invite/zt-letq8v1e-tiEJ_jUyCFJLGiZBGrjziA) to Angela, Andy, or Justin
 * [Anonymous reporting form](https://forms.gle/RE5gsSJVFtFqJUz38)
 
 However, if you or others are in imminent danger, please first phone emergency services at 911.
