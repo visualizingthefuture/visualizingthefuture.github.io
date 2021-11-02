@@ -30,7 +30,7 @@ We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.co
 | 9:00 - 9:25 a.m. | 12:00 - 12:25 p.m. | Symposium Welcome <br /> [Intro slides](https://docs.google.com/presentation/d/1EZ6_vgfs9ImgGtSZPc9mNc9Vi2CAgzRLZ-XUvMSzLOE/edit#slide=id.p) <br /> [Positionality slides](https://docs.google.com/presentation/d/1cS7_c6yWq6k4nob7bMTedY4Hz4C6U34QG367zaMKLcY/edit?usp=sharing) <br /> [Positionality live notes](https://docs.google.com/document/d/1BGNU_y4VVpIrxKhX5nCHIim4yudTaOePANKd9yMt98g/edit?usp=sharing)  |
 | 9:30 - 11:00 a.m. | 12:30 - 2:00 p.m. | Keynote Presentation and Q & A - [Visualizing a future: Some thoughts on the library’s role in data education](keynote). Jonathan O. Cain, Associate University Librarian for Research and Learning, Columbia University Libraries |
 | 11:00 - 11:30 a.m. | 2:00 - 2:30 p.m. | Break |
-| 11:30 a.m. - 12:30 p.m. | 2:30 - 3:30 p.m. | Unconference small group discussions <br />Preliminary topics:<br /><ul><li>Offering data visualization services</li><li>Data Viz Instruction</li><li>Data Viz Tools</li><li>Learning Data Viz</li></ul>|
+| 11:30 a.m. - 12:30 p.m. | 2:30 - 3:30 p.m. | Unconference small group discussions <br />Preliminary topics: offering data visualization services, data viz instruction, data viz tools, learning data viz|
 | 12:30 p.m. - 1:00 p.m. | 3:30 - 4:00 p.m. | Break |
 | 1:00 p.m. - 1:45 p.m. | 4:00 - 4:45 p.m. | Visualizing the Future project report and Q & A <br />[Project report slides](https://docs.google.com/presentation/d/1QA-a1M8iMW9RWcwQI7v3G_7wOvxCexrvBGbGszZTlTg/edit?usp=sharing )|
 | 2:00 p.m. - 3:00 p.m. |  | West coast meet & greet / tea time |
