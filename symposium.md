@@ -39,7 +39,7 @@ We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.co
 
 | Pacific Daylight Time | Eastern Daylight Time | Event |
 | ----- | ----- | ----- |
-|  | TBD | East coast regional social activities |
+|  | 11:00 a.m. - 12:00 p.m. | East coast regional social time |
 | 9:00 - 9:50 a.m. | 12:00 - 12:50 p.m. | Lightning Talks:<br />Instructional modules<br />Viz and Tells<br />Examples repository<br />Jacques Bertin<br />Data visualization literacy framework|
 | 10:00 - 10:50 a.m. | 1:00 - 1:50 p.m. | Viz and Tell: Organizing the community / next steps |
 | 11:00 - 12:00 p.m. | 2:00 - 3:00 p.m. | Break / Unconference small group discussions |
