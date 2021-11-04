@@ -41,7 +41,7 @@ We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.co
 | ----- | ----- | ----- |
 |  | 11:00 a.m. - 12:00 p.m. | East coast regional social time |
 | 9:00 - 9:50 a.m. | 12:00 - 12:50 p.m. | Lightning Talks:<br />Instructional modules<br />Viz and Tells<br />[Examples repository](https://docs.google.com/presentation/d/1BMOB8u0m59_-dwpdzC8_VONdk2456PsYS_EIvySeCfo/edit#slide=id.gfd1edff2e5_0_206)<br />Jacques Bertin<br />Data visualization literacy framework|
-| 10:00 - 10:50 a.m. | 1:00 - 1:50 p.m. | Viz and Tell: Organizing the community / next steps |
+| 10:00 - 10:50 a.m. | 1:00 - 1:50 p.m. | Viz and Tell: Organizing the community / next steps <br />[Viz and Tell Live Notes](https://docs.google.com/document/d/1tY2ZXqq7fz5oRt1tTYzleWULaugy_BfZnTCb8cZM8w0/edit?usp=sharing)|
 | 11:00 - 12:00 p.m. | 2:00 - 3:00 p.m. | Break / Unconference small group discussions |
 | 12:00 p.m. - 12:45 p.m. | 3:00 - 3:45 p.m. | Invited speaker and Q & A - [Mapping an Indigenous Los Angeles: Indigenous Place, Space and Story Mapping](speaker). Dr. Maylei Blackwell, Associate Professor of Chicana and Chicano Studies, University of California, Los Angeles |
 | 1:00 p.m. - 1:45 p.m. | 4:00 - 4:45 p.m. | Symposium reflection / closing session |
