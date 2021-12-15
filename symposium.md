@@ -40,15 +40,15 @@ We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.co
 | Pacific Daylight Time | Eastern Daylight Time | Event |
 | ----- | ----- | ----- |
 |  | 11:00 a.m. - 12:00 p.m. | East coast regional social time |
-| 9:00 - 9:50 a.m. | 12:00 - 12:50 p.m. | Lightning Talks:<br />Instructional modules<br />Viz and Tells<br />[Examples repository](https://docs.google.com/presentation/d/1BMOB8u0m59_-dwpdzC8_VONdk2456PsYS_EIvySeCfo/edit#slide=id.gfd1edff2e5_0_206)<br />Jacques Bertin<br />Data visualization literacy framework|
+| 9:00 - 9:50 a.m. | 12:00 - 12:50 p.m. | Lightning Talks:<br />Instructional modules<br />[Building Community Discussion](https://docs.google.com/presentation/d/1wvvU-Z9C3OYf2ET8HFUyM9WOfvqS0lM1NK40_vAVdkg/edit?usp=sharing)<br />[Teach Viz by Example](https://docs.google.com/presentation/d/1BMOB8u0m59_-dwpdzC8_VONdk2456PsYS_EIvySeCfo/edit#slide=id.gfd1edff2e5_0_206)<br />[The Work of Jacques Bertin and Data Visualization](https://docs.google.com/presentation/d/1oEvjKkAkxlocvfKkXQ9W-CGh0-mtGJ_1dTjao7fVfkw/edit?usp=sharing)<br />[A Framework for Data Visualization](https://drive.google.com/file/d/1b-1PoGR-lkIhqxb9pvN9HjYWyWnmnV5w/view?usp=sharing)|
 | 10:00 - 10:50 a.m. | 1:00 - 1:50 p.m. | Viz and Tell: Organizing the community / next steps <br />[Viz and Tell Live Notes](https://docs.google.com/document/d/1tY2ZXqq7fz5oRt1tTYzleWULaugy_BfZnTCb8cZM8w0/edit?usp=sharing)|
 | 11:00 - 12:00 p.m. | 2:00 - 3:00 p.m. | Break / Unconference small group discussions |
-| 12:00 p.m. - 12:45 p.m. | 3:00 - 3:45 p.m. | Invited speaker and Q & A - [Mapping an Indigenous Los Angeles: Indigenous Place, Space and Story Mapping](speaker). Dr. Maylei Blackwell, Associate Professor of Chicana and Chicano Studies, University of California, Los Angeles |
-| 1:00 p.m. - 1:45 p.m. | 4:00 - 4:45 p.m. | Symposium reflection / closing session |
+| 12:00 p.m. - 12:45 p.m. | 3:00 - 3:45 p.m. | Invited speaker and Q & A - [Mapping an Indigenous Los Angeles: Indigenous Place, Space and Story Mapping](speaker). Dr. Maylei Blackwell, Associate Professor of Chicana and Chicano Studies, University of California, Los Angeles [Blackwell slides](https://drive.google.com/file/d/1dMNFQXiTLBLoq3d4AGTwgRymbuFT3TPg/view?usp=sharing)|
+| 1:00 p.m. - 1:45 p.m. | 4:00 - 4:45 p.m. | Symposium reflection / closing session [Reflection notes](https://docs.google.com/document/d/1Shu7xozcB42hliHGi04gKRqAuDzYkcP9gQSXJyrmFPY/edit?usp=sharing)|
 | 2:00 p.m. - 3:00 p.m. |  | Build a community playlist (West coast regional social activity) |
 
 ### Friday, November 5
 
 | Pacific Daylight Time | Eastern Daylight Time | Event |
 | ----- | ----- | ----- |
-| 10:00 a.m. - 2:00 p.m. | 1:00 - 5:00 p.m. | Workshop: [Beyond the tools: Pedagogy for critical data visualization instruction](workshop) (separate registration required) |
+| 10:00 a.m. - 2:00 p.m. | 1:00 - 5:00 p.m. | Workshop: [Beyond the tools: Pedagogy for critical data visualization instruction](workshop) (separate registration required) [Workshop resources](https://bit.ly/Beyondtools)|
