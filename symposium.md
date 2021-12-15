@@ -5,20 +5,8 @@ title: 2021 Public Symposium
 
 November 3-5, 2021    
 Virtual    
-[Register for the symposium](https://duke.zoom.us/meeting/register/tJIucOiupj4uE9brEQ94y1qOmJedEunS1YuE)
 
-Join us for our final symposium from November 3 to 5, 2021!    
-All events will be virtual, free, and (whenever possible) recorded and shared publicly.
-
-This page will continue to update with new details as they are available.
-
-Our [Code of Conduct](code-of-conduct) will be in effect for all symposium events.
-
-*Visualizing the Future* encourages persons with disabilities to participate in its programs and activities. If you anticipate needing any type of accommodation or have any questions, please reach out to visualizingthefuture [at] umich [dot] edu, if possible two weeks in advance.
-
-## Communication
-
-We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.com/join/shared_invite/zt-letq8v1e-tiEJ_jUyCFJLGiZBGrjziA), where we'll be using a separate channel to organize conversations related to the symposium.
+*Visualizing the Future* held a public symposium in November 2021. The schedule and resources from the symposium are shared below.
 
 ## Schedule
 
@@ -51,4 +39,4 @@ We encourage you to join us on the [VTF Slack space](https://vizandtell.slack.co
 
 | Pacific Daylight Time | Eastern Daylight Time | Event |
 | ----- | ----- | ----- |
-| 10:00 a.m. - 2:00 p.m. | 1:00 - 5:00 p.m. | Workshop: [Beyond the tools: Pedagogy for critical data visualization instruction](workshop) (separate registration required) [Workshop resources](https://bit.ly/Beyondtools)|
+| 10:00 a.m. - 2:00 p.m. | 1:00 - 5:00 p.m. | Workshop: [Beyond the tools: Pedagogy for critical data visualization instruction](workshop) (separate registration required)<br />[Workshop resources](https://bit.ly/Beyondtools)|
