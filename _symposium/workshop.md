@@ -6,9 +6,8 @@ title: "Beyond the tools: Pedagogy for critical data visualization instruction"
 Date: Friday, November 5    
 Time: 10:00 a.m. - 2:00 p.m. PDT | 1:00 - 5:00 p.m. EDT    
 Cost: Free    
-[Register for the workshop](https://duke.libcal.com/event/8422973)
 
-*This workshop will be* ***recorded and shared publicly,*** *in keeping with the mission of the symposium to provide broad access to events and resources. Because there are a limited number of seats available, please only register if you are able to attend the full workshop live. To receive updates about the availability of symposium recordings, you can join the Visualizing the Future [mailing list](http://eepurl.com/gzlFyH).*
+[Materials from the workshop](https://bit.ly/Beyondtools)
 
 ## Description
 
