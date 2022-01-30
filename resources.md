@@ -2,7 +2,7 @@
 layout: page
 title: Resources
 ---
-A selection of resources created by VTF organizers and fellows. Coming soon!
+A selection of resources created by VTF organizers and fellows.
 
 {% for resource in site.resources %}
 ## [{{ resource.title }}]({{ resource.resource_url }})
